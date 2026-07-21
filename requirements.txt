@@ -1,0 +1,5 @@
+anthropic
+pytest
+flake8
+streamlit
+chromadb
