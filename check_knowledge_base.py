@@ -1,8 +1,4 @@
 """
-Quick helper to peek inside the vector database used by coding_agent.py.
-
-Run this any time you want to see how many error/fix pairs have been stored
-so far, and a short preview of each one.
 
 Run:
     python check_knowledge_base.py

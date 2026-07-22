@@ -4,5 +4,5 @@ chroma_db/
 __pycache__/
 *.pyc
 
-# Never commit real API keys if you ever create one of these
+
 .env
